@@ -1,0 +1,20 @@
+body {
+	font-family: "LiHei Pro", "Microsoft JhengHei";
+}
+
+.col-left {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: orange;
+}
+
+.col-right {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: yellow;
+}
+
+.image-item {
+	width: 282px;
+	height: auto;
+}
